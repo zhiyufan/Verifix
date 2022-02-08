@@ -1,0 +1,50 @@
+[
+  {
+    "fnc": "main",
+    "loc": 6,
+    "var": "$cond",
+    "expr": {
+      "type": "Op",
+      "name": ">",
+      "args": [
+        {
+          "type": "Var",
+          "name": "i",
+          "primed": false,
+          "original": null
+        },
+        {
+          "type": "Const",
+          "value": "0",
+          "original": null
+        }
+      ],
+      "original": null
+    },
+    "src": null
+  },
+  {
+    "fnc": "main",
+    "loc": 6,
+    "var": "$cond",
+    "expr": {
+      "type": "Op",
+      "name": ">=",
+      "args": [
+        {
+          "type": "Var",
+          "name": "i",
+          "primed": false,
+          "original": null
+        },
+        {
+          "type": "Const",
+          "value": "1",
+          "original": null
+        }
+      ],
+      "original": null
+    },
+    "src": "/home/zhiyu/software/ITSP/dataset/cluster_prog_0.75/2865/Main.c"
+  }
+]

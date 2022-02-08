@@ -1,0 +1,10 @@
+clara==1.0
+graphviz==0.5.2
+joblib==0.14.1
+numpy==1.19.0
+pandas==1.2.0
+pycparser==2.19
+termcolor==1.1.0
+timeout_decorator==0.5.0
+z3_solver==4.8.7.0
+zss==1.2.0
