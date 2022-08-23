@@ -35,5 +35,5 @@ pip3 install -r requirements.txt
 
 ## Running Verifix
 ```
-python3 -m srcU.main -m repair -c data/examples/simple_correct.c -i data/examples/simple_incorrect.c -t data/examples/simple_tests
+python3 -m srcU.main -m repair -pc data/examples/simple_correct.c -pi data/examples/simple_incorrect.c -tc data/examples/simple_tests/
 ```
